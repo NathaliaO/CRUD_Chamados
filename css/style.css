@@ -1,0 +1,10 @@
+h1{
+  text-align: center;
+  font-size: 69px;
+  font-weight: 700;
+  font-family: system-ui;
+}
+
+.body{
+  background-color: aqua;
+}
